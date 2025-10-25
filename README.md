@@ -28,7 +28,7 @@ Figure 3, H to L: STAR with IIR filtering. (`CPG_with_IIR_improved.py`)
 
 Figure 4: Force-torque mapping. (`flapping_pattern.py`, `membrane_wing_0829_40cycles.zip`)
 
-Figure 5A: Linear acceleration measurements. (`A_offset_0.6_0.55_0.05_trial2_acceleration_vs_flapping_phase_violin.png`)
+Figure 5A: Linear acceleration measurements. (same as Figure 5, F to M)
 
 Figure 5, B and C: Intra-cycle acceleration profiles under angle offset and stroke timing modulation. (same as Figure 5, F to M)
 
