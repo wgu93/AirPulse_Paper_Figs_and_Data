@@ -167,7 +167,7 @@ def create_three_panel_figure(merged_df, output_file='fig_venation_analysis_over
         #                 alpha=0.9, label='All Samples')
 
     ax_scatter.set_xlabel('Dc–Cu1 Angle (deg)', fontsize=15)
-    ax_scatter.set_ylabel('Aspect Ratio', fontsize=15)
+    ax_scatter.set_ylabel('1/AR', fontsize=15)
     # ax_scatter.legend(frameon=True, loc='best', fontsize=14)
     ax_scatter.grid(linestyle='--', linewidth=0.6, alpha=0.5)
     
